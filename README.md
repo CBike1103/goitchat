@@ -1,2 +1,1 @@
-# goitchat
-golang version of itchat
+inspired by https://github.com/newflydd/itchat4go
